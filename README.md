@@ -8,7 +8,9 @@ Proof of Stake (POS) is seen as less risky in terms of the potential for miners 
 
 https://www.investopedia.com/terms/p/proof-stake-pos.asp
 
-# algorand
+# Algorand
+
+Algorand blockchain never forks. Two blocks never propagate to the chain at once because one block can have the required threshold of committee votes. One, and only one block is certified and written to the chain per round. All transactions are final in Algorand. Post block inception users can rely on the transactions it contains as immutable evidence the block transaction will forever documented as a link in the chain confirming reciept of the value to the reciept.
 https://www.algorand.com/
 https://algorandwallet.com/
 https://algoexplorer.io/
