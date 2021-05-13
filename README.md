@@ -29,5 +29,5 @@ https://solana.com/
 https://chain.link/
 https://zilpay.io/
 
-cryptobotml.crypto cryptobotml.zil
+cryptobotml.crypto cryptobotml.zil cryptobotml.com
 
