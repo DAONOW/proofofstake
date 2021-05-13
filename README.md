@@ -23,7 +23,11 @@ https://client.aragon.org/#/
 A DAO is a group of people with no central management that coordinate over the internet around a shared set of rules to achieve a common mission.
 https://aragon.org/govern
 
+https://daostack.io/
 https://viewblock.io/unstoppable
+https://solana.com/
 https://chain.link/
 https://zilpay.io/
+
+cryptobotml.crypto cryptobotml.zil
 
