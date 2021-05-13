@@ -15,8 +15,7 @@ https://www.algorand.com/
 https://algorandwallet.com/
 https://algoexplorer.io/
 https://algoexplorer.io/rewards-calculator
-Algorand QR generator
-https://developer.algorand.org/solutions/algorand-qr-code-generator-javascript/?utm_campaign=Inc%20Developer%20Campaign&utm_medium=email&_hsmi=126823852&_hsenc=p2ANqtz-8Jctqj1EO-W-v3v8lF8CGUJsWxtQEZ0yuPTX6fg-m5rY9bcK59Yncw1vWptJFxKcZEujOrDGKFj2uVCtpx16oce-WDgw&utm_content=126819034&utm_source=hs_email#installation
+
 
 DAONOW
 https://aragon.org/dao
@@ -30,6 +29,11 @@ https://viewblock.io/unstoppable
 https://solana.com/
 https://chain.link/
 https://zilpay.io/
+
+
+Algorand QR generator
+https://developer.algorand.org/solutions/algorand-qr-code-generator-javascript/?utm_campaign=Inc%20Developer%20Campaign&utm_medium=email&_hsmi=126823852&_hsenc=p2ANqtz-8Jctqj1EO-W-v3v8lF8CGUJsWxtQEZ0yuPTX6fg-m5rY9bcK59Yncw1vWptJFxKcZEujOrDGKFj2uVCtpx16oce-WDgw&utm_content=126819034&utm_source=hs_email#installation
+
 
 cryptobotml.crypto cryptobotml.zil cryptobotml.com
 
