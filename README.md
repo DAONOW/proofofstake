@@ -16,3 +16,9 @@ https://algorandwallet.com/
 https://algoexplorer.io/
 https://algoexplorer.io/rewards-calculator
 
+DAONOW
+https://aragon.org/dao
+A DAO is an internet-native entity with no central management which is regulated by a set of automatically enforceable rules on a public blockchain, and whose goal is to take on a life of its own and incentivize people to achieve a shared common mission.
+https://client.aragon.org/#/
+A DAO is a group of people with no central management that coordinate over the internet around a shared set of rules to achieve a common mission.
+
